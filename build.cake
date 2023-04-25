@@ -41,6 +41,7 @@ BuildSettings.Initialize(
 	context: Context,
 	title: "TestCentric.GuiRunner",
 	solutionFile: "testcentric-gui.sln",
+	githubRepository: "testcentric-gui",
 	exemptFiles: new [] { "Resource.cs", "TextCode.cs" }
 );
 
