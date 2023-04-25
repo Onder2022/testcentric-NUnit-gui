@@ -43,7 +43,6 @@ Projects with tests to be run under **TestCentric** must already have some versi
   </metadata>
   <files>
     <file src="../LICENSE.txt" target="tools" />
-    <file src="../NOTICES.txt" target="tools" />
     <file src="../CHANGES.txt" target="tools" />
     <file src="../testcentric.png" target="tools" />
     
